@@ -1,0 +1,9 @@
+.main {
+    
+}
+
+.server-list {
+    display: inherit;
+    width: 200px;
+    flex-wrap: wrap;
+}
